@@ -1,0 +1,22 @@
+2023-02-07 14:16:07.110087  Addition of  12 and 12  is =  24 
+2023-02-07 14:16:09.378218  Addition of  24 and 12  is =  36 
+2023-02-07 14:16:55.873051  Subtraction of  50 and 20  is =  30 
+2023-02-07 14:17:03.774156  Subtraction of  30 and 15  is =  15 
+2023-02-07 14:17:25.768584  Multiplication of  12 and 12  is =  144 
+2023-02-07 14:17:46.310827  Division of  50 and 5  is =  10.0 
+2023-02-07 14:19:03.087975  Remainder of  54 and 5  is =  4 
+2023-02-07 14:19:37.615681  Floor Division of  30 and 7  is =  4 
+2023-02-07 14:19:45.716418  Square of  30  is =  900 
+2023-02-07 14:19:57.743252  Square Root of  144  is =  12.0 
+2023-02-07 14:20:11.588386  Cube of  3  is =  27 
+2023-02-07 14:20:26.883548  Cube Root of  81  is =  4.3267487109222245 
+2023-02-07 14:24:27.265087  Conversion of  INR to USD  is =  145.14 
+2023-02-07 14:30:48.421360  Area of triangle with 3 sides  10 10 10  is =  43.30127018922193 
+2023-02-07 14:31:28.818767  Area of Circle with radius  10  is =  314.0 
+2023-02-07 14:31:40.549821  Area of Rectangle with breadth 10 and height 20 200 
+2023-02-07 14:31:59.622510  Area of Rectangle with breadth 15 and height 90 1350 
+2023-02-07 14:32:07.780199  Area of Square with side 25 is =  625 
+2023-02-07 14:32:23.146760  Percenatge with Maximum Marks 325 and 500 65.0 
+2023-02-07 14:33:45.500929 5  th degree of  2 is =  32 
+2023-02-07 14:34:01.744719 4  th of root of 81 is =  3.0 
+2023-02-07 14:35:00.033086 PALKESH  paid Rs. 1000  for  TRIP  and  ['SHUBHAM', 'PALKESH', 'ROHAN', 'BALAJI', 'ANUJ', 'VIRENDRA']  need to pay Rs. 166.66666666666666 to PALKESH 
